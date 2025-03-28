@@ -4,4 +4,4 @@ tgcrypto
 Pillow
 psycopg2-binary
 sqlalchemy==1.3.23
-git+https://github.com/pyrogram/pyrogram@asyncio
+pyrogram==2.0.106
